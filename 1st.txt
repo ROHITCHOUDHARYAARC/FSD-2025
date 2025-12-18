@@ -1,0 +1,19 @@
+1. Come to the main branch.
+ git checkout main
+2.git branch branchname
+Ex: git branch first
+
+Merging branches:
+-------------------
+To merge the branches, first come to the branch we need to merge
+1. Come to main branch
+    git checkout main
+2. Merge the first branch with main branch
+    git merge branchname
+Ex: git merge first
+3. Then push the code to the main branch
+   git push origin main
+4. Merge the second branch with main branch
+   git checkout main
+   git merge second
+   git push origin main
