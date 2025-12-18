@@ -1,0 +1,6 @@
+I am a Full Stack Developer with knowledge of both frontend and backend development.
+I work on user interfaces using HTML, CSS, JavaScript, and modern frameworks.
+On the backend side, I handle server logic, APIs, and databases to manage data efficiently.
+I understand how frontend and backend connect to build complete web applications.
+I focus on writing clean code, solving problems, and creating scalable solutions.
+My goal is to develop secure, fast, and user-friendly applications from start to end.
